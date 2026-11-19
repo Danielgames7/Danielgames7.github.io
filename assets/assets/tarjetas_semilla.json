@@ -1,0 +1,1955 @@
+{
+ "version": 1,
+ "tarjetas": [
+  {
+   "id": "0d28eb50-70c3-5133-8401-2bca41fa6d4b",
+   "tipo": "afirmacion",
+   "titulo": "Noé construyó un arca por mandato de Dios.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Dios le pidió hacer el arca de madera de gofer."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 6:13-14",
+   "apto_ninos": true
+  },
+  {
+   "id": "15d64b4c-746c-5a61-b5c1-ab07dbce6483",
+   "tipo": "afirmacion",
+   "titulo": "David venció a Goliat con una espada.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "Lo derribó con una honda y una piedra. Después usó la espada de Goliat."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "1 Samuel 17:49-50",
+   "apto_ninos": true
+  },
+  {
+   "id": "b0771c71-1fad-5979-b8af-8371ce782fba",
+   "tipo": "afirmacion",
+   "titulo": "Jesús nació en Belén.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Nació en Belén de Judea, en días del rey Herodes."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Mateo 2:1",
+   "apto_ninos": true
+  },
+  {
+   "id": "2ec4e525-6758-5ea5-bb46-b16536e78531",
+   "tipo": "afirmacion",
+   "titulo": "Moisés guió al pueblo de Israel fuera de Egipto.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Dios lo envió a sacar a su pueblo de Egipto."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Éxodo 3:10",
+   "apto_ninos": true
+  },
+  {
+   "id": "0b1e6927-80d0-5d5b-9991-823e652ad5ea",
+   "tipo": "afirmacion",
+   "titulo": "Jonás fue tragado por un gran pez.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Pasó tres días y tres noches en el vientre del pez."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Jonás 1:17",
+   "apto_ninos": true
+  },
+  {
+   "id": "09aad5da-dc7c-5992-86bc-d43930d5471a",
+   "tipo": "afirmacion",
+   "titulo": "Adán y Eva vivían en el huerto de Getsemaní.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "Vivían en el huerto del Edén. Getsemaní es donde oró Jesús."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 2:8",
+   "apto_ninos": true
+  },
+  {
+   "id": "1ea09271-7c3a-575f-b314-7803f4df4055",
+   "tipo": "afirmacion",
+   "titulo": "Jesús escogió a doce apóstoles.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Mateo da la lista de los doce."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Mateo 10:2-4",
+   "apto_ninos": true
+  },
+  {
+   "id": "8f2186e8-9ba0-525e-93fc-36fce9834897",
+   "tipo": "afirmacion",
+   "titulo": "Pedro negó a Jesús tres veces.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Antes de que el gallo cantara, como Jesús le había dicho."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Lucas 22:61",
+   "apto_ninos": true
+  },
+  {
+   "id": "4e4967d7-b6d3-5970-a568-5d1b7d036662",
+   "tipo": "afirmacion",
+   "titulo": "Daniel fue echado al foso de los leones.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Dios cerró la boca de los leones."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Daniel 6:16",
+   "apto_ninos": true
+  },
+  {
+   "id": "25d61d9d-e1b6-5678-94a7-e531dff0cd41",
+   "tipo": "afirmacion",
+   "titulo": "Jesús convirtió el agua en leche en una boda.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "La convirtió en vino, en las bodas de Caná."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Juan 2:9",
+   "apto_ninos": true
+  },
+  {
+   "id": "ce093396-d049-5416-a0db-b1bcd65c42c1",
+   "tipo": "afirmacion",
+   "titulo": "El primer libro de la Biblia es Éxodo.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "El primero es Génesis. Éxodo es el segundo."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 1:1",
+   "apto_ninos": true
+  },
+  {
+   "id": "7d4f2e8f-1936-5ec3-81e6-fc0faa43f468",
+   "tipo": "afirmacion",
+   "titulo": "Jesús fue bautizado en el río Jordán.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Lo bautizó Juan el Bautista."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Mateo 3:13",
+   "apto_ninos": true
+  },
+  {
+   "id": "77c4f05f-a59e-5562-a094-739eeee3e56d",
+   "tipo": "afirmacion",
+   "titulo": "Dios hizo la creación en seis días y reposó el séptimo.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "El séptimo día reposó de toda su obra."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 2:2",
+   "apto_ninos": true
+  },
+  {
+   "id": "de9f6dbf-580a-5ced-9fe9-b48e06603c82",
+   "tipo": "afirmacion",
+   "titulo": "Sansón perdió su fuerza cuando le cortaron el cabello.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Dalila hizo que le raparan las siete guedejas."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 1,
+   "cita": "Jueces 16:19",
+   "apto_ninos": true
+  },
+  {
+   "id": "6ee7a23b-b492-563c-8a4e-f48272374a92",
+   "tipo": "afirmacion",
+   "titulo": "Abraham salió de Ur de los caldeos.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Salió con su padre Taré rumbo a Canaán."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Génesis 11:31",
+   "apto_ninos": true
+  },
+  {
+   "id": "f0a6e052-6206-57b3-a3df-42d21b34f7d7",
+   "tipo": "afirmacion",
+   "titulo": "Zaqueo subió a un sicómoro para ver a Jesús.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Era pequeño de estatura y la gente no lo dejaba ver."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Lucas 19:4",
+   "apto_ninos": true
+  },
+  {
+   "id": "ab02ec3a-09b3-5d36-bb10-652b8aadfee6",
+   "tipo": "afirmacion",
+   "titulo": "El primer rey de Israel fue David.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "El primero fue Saúl. David fue el segundo."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "1 Samuel 10:1",
+   "apto_ninos": true
+  },
+  {
+   "id": "feaeb854-5dd0-5a75-8671-180220e79c84",
+   "tipo": "afirmacion",
+   "titulo": "Rut era moabita.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Era de Moab y se casó con un hijo de Noemí."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Rut 1:4",
+   "apto_ninos": true
+  },
+  {
+   "id": "b67ebd0c-71f4-518e-81ff-318284a8987f",
+   "tipo": "afirmacion",
+   "titulo": "Jacob tuvo doce hijos varones.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "De ellos salieron las doce tribus de Israel."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Génesis 35:22",
+   "apto_ninos": true
+  },
+  {
+   "id": "9ab62289-0180-548e-a730-6aaea99ed5dc",
+   "tipo": "afirmacion",
+   "titulo": "Las murallas de Jericó cayeron después de rodearlas siete días.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "El séptimo día dieron siete vueltas y gritaron."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Josué 6:15-20",
+   "apto_ninos": true
+  },
+  {
+   "id": "89494ede-eec4-58e0-acbf-ca41b08348ea",
+   "tipo": "afirmacion",
+   "titulo": "Moisés recibió los Diez Mandamientos en el monte Sinaí.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Dios le dio las tablas del testimonio en el Sinaí."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Éxodo 31:18",
+   "apto_ninos": true
+  },
+  {
+   "id": "da3155c6-2e16-581b-a6d4-367e9b500b2b",
+   "tipo": "afirmacion",
+   "titulo": "Elías subió al cielo en un torbellino.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Apareció un carro de fuego y subió en un torbellino."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "2 Reyes 2:11",
+   "apto_ninos": true
+  },
+  {
+   "id": "dbbc9bd3-f8be-5f5e-8262-72c4e871d8af",
+   "tipo": "afirmacion",
+   "titulo": "Judas entregó a Jesús por treinta monedas de plata.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Los principales sacerdotes le pagaron treinta piezas de plata."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Mateo 26:15",
+   "apto_ninos": true
+  },
+  {
+   "id": "e6c96231-57ff-5d52-8144-64d94b7f93b8",
+   "tipo": "afirmacion",
+   "titulo": "La Biblia dice que los magos que visitaron a Jesús eran tres reyes.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "No dice cuántos eran ni que fueran reyes. Lo que se cuenta son tres regalos."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Mateo 2:1, 11",
+   "apto_ninos": true
+  },
+  {
+   "id": "fce85979-0b91-5368-b7b3-83b3bddf560c",
+   "tipo": "afirmacion",
+   "titulo": "Ester llegó a ser reina en Persia.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "El rey Asuero la hizo reina."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Ester 2:17",
+   "apto_ninos": true
+  },
+  {
+   "id": "1810fc1d-23bc-5591-b39f-b388031f73a8",
+   "tipo": "afirmacion",
+   "titulo": "Gedeón venció a los madianitas con trescientos hombres.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Dios redujo su ejército para que la victoria fuera suya."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Jueces 7:7",
+   "apto_ninos": true
+  },
+  {
+   "id": "ed9f06a9-37ca-53f2-9c79-29a073b1ed48",
+   "tipo": "afirmacion",
+   "titulo": "Tomás fue el apóstol que caminó sobre el agua.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "Fue Pedro. Tomás es el que dudó de la resurrección."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 2,
+   "cita": "Mateo 14:29",
+   "apto_ninos": true
+  },
+  {
+   "id": "f5a1eccf-5e67-5070-be77-ae4505025b68",
+   "tipo": "afirmacion",
+   "titulo": "Matusalén es el hombre que más años vivió según la Biblia.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Vivió 969 años."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Génesis 5:27",
+   "apto_ninos": true
+  },
+  {
+   "id": "0183613d-af65-5f64-b264-6306b16de5ab",
+   "tipo": "afirmacion",
+   "titulo": "Débora fue jueza de Israel.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Era profetisa y gobernaba a Israel en aquel tiempo."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Jueces 4:4",
+   "apto_ninos": true
+  },
+  {
+   "id": "bc1b4908-b9f5-5c7e-9f0e-cbe6d1e4b85d",
+   "tipo": "afirmacion",
+   "titulo": "El profeta Natán confrontó a David por su pecado.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Le dijo: \"Tú eres aquel hombre\"."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "2 Samuel 12:7",
+   "apto_ninos": true
+  },
+  {
+   "id": "4b23ea98-3f83-5000-8b79-a1e22f2151b3",
+   "tipo": "afirmacion",
+   "titulo": "Lázaro era hermano de Marta y María.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Vivían en Betania."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Juan 11:1-2",
+   "apto_ninos": true
+  },
+  {
+   "id": "a29e4488-e6c5-5ada-8b38-642c286074ac",
+   "tipo": "afirmacion",
+   "titulo": "El primer mártir cristiano que narra Hechos fue Santiago.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "Fue Esteban. Santiago murió después, en Hechos 12."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Hechos 7:59-60",
+   "apto_ninos": true
+  },
+  {
+   "id": "2efe58ae-1940-5123-840f-f1d217e2a7e4",
+   "tipo": "afirmacion",
+   "titulo": "Eliseo pidió una doble porción del espíritu de Elías.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Se lo pidió antes de que Elías fuera llevado."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "2 Reyes 2:9",
+   "apto_ninos": true
+  },
+  {
+   "id": "59d7de9c-9ef8-575b-a42f-d78bd9227824",
+   "tipo": "afirmacion",
+   "titulo": "Abraham tenía 75 años cuando salió de Harán.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Salió con Sara y su sobrino Lot."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Génesis 12:4",
+   "apto_ninos": true
+  },
+  {
+   "id": "e06eea6c-4d9a-52e8-9001-40a902c5c52a",
+   "tipo": "afirmacion",
+   "titulo": "Ana fue la madre del profeta Samuel.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Lo llamó Samuel porque se lo pidió a Dios."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "1 Samuel 1:20",
+   "apto_ninos": true
+  },
+  {
+   "id": "2629785d-5c3c-570e-9d6c-37d279d48473",
+   "tipo": "afirmacion",
+   "titulo": "Josué era de la tribu de Judá.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "Era de la tribu de Efraín. Caleb era de Judá."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Números 13:8",
+   "apto_ninos": true
+  },
+  {
+   "id": "4ac47999-3f6d-5736-b063-df5492d224c7",
+   "tipo": "afirmacion",
+   "titulo": "Felipe le explicó Isaías a un funcionario etíope.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Partiendo de ese pasaje le anunció a Jesús."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Hechos 8:30-35",
+   "apto_ninos": true
+  },
+  {
+   "id": "215bf566-8174-5621-9ad4-3ed0c6b693fb",
+   "tipo": "afirmacion",
+   "titulo": "Absalón era hijo del rey David.",
+   "contenido": {
+    "verdad": true,
+    "explicacion": "Nació en Hebrón; su madre fue Maaca."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "2 Samuel 3:3",
+   "apto_ninos": true
+  },
+  {
+   "id": "ed76c549-2106-5052-8e93-283b7970439d",
+   "tipo": "afirmacion",
+   "titulo": "Dios le cambió el nombre a Saulo por Pablo en el camino a Damasco.",
+   "contenido": {
+    "verdad": false,
+    "explicacion": "La Biblia no narra un cambio de nombre: dice \"Saulo, que también es Pablo\"."
+   },
+   "juegos": [
+    "es-cierto"
+   ],
+   "dificultad": 3,
+   "cita": "Hechos 13:9",
+   "apto_ninos": true
+  },
+  {
+   "id": "fa264127-b1a2-5ca2-9747-dd22255552ed",
+   "tipo": "personaje",
+   "titulo": "Noé",
+   "contenido": {
+    "pistas": [
+     "Mi familia era de ocho personas.",
+     "Viví 950 años.",
+     "Solté un cuervo y una paloma.",
+     "Construí un arca."
+    ],
+    "prohibidas": [
+     "arca",
+     "diluvio",
+     "animales",
+     "paloma",
+     "lluvia"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 6-9",
+   "apto_ninos": true
+  },
+  {
+   "id": "484dee57-2c06-5243-8ecc-92422fff2aac",
+   "tipo": "personaje",
+   "titulo": "Moisés",
+   "contenido": {
+    "pistas": [
+     "Me criaron en un palacio que no era de mi familia.",
+     "Fui pastor en el desierto.",
+     "Dios me habló desde una zarza que ardía.",
+     "Abrí el mar Rojo."
+    ],
+    "prohibidas": [
+     "Egipto",
+     "mar",
+     "mandamientos",
+     "faraón",
+     "zarza"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Éxodo 2-14",
+   "apto_ninos": true
+  },
+  {
+   "id": "92a27331-65ff-5732-8aa2-ad2d30cde7fd",
+   "tipo": "personaje",
+   "titulo": "David",
+   "contenido": {
+    "pistas": [
+     "Era el menor de mis hermanos.",
+     "Tocaba el arpa para un rey.",
+     "Escribí muchos salmos.",
+     "Vencí a un gigante con una honda."
+    ],
+    "prohibidas": [
+     "Goliat",
+     "honda",
+     "rey",
+     "salmos",
+     "pastor"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "1 Samuel 16-17",
+   "apto_ninos": true
+  },
+  {
+   "id": "68ba62fb-b293-50c4-8833-a601e4cb969f",
+   "tipo": "personaje",
+   "titulo": "María, madre de Jesús",
+   "contenido": {
+    "pistas": [
+     "Era de Nazaret.",
+     "Visité a mi parienta Elisabet.",
+     "Un ángel me dio una noticia.",
+     "Soy la madre de Jesús."
+    ],
+    "prohibidas": [
+     "Jesús",
+     "madre",
+     "ángel",
+     "Gabriel",
+     "Belén"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Lucas 1:26-38",
+   "apto_ninos": true
+  },
+  {
+   "id": "4c59db79-0589-5a05-8448-42465ab25b2c",
+   "tipo": "personaje",
+   "titulo": "Pedro",
+   "contenido": {
+    "pistas": [
+     "Era pescador.",
+     "Mi hermano se llamaba Andrés.",
+     "Caminé sobre el agua un momento.",
+     "Negué tres veces a mi Maestro."
+    ],
+    "prohibidas": [
+     "pescador",
+     "gallo",
+     "negar",
+     "apóstol",
+     "Simón"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Mateo 4:18; 14:29; 26:75",
+   "apto_ninos": true
+  },
+  {
+   "id": "9222a65f-27b7-50c9-88ae-15c33d63a96f",
+   "tipo": "personaje",
+   "titulo": "Jonás",
+   "contenido": {
+    "pistas": [
+     "Me mandaron a una gran ciudad.",
+     "Tomé un barco en dirección contraria.",
+     "Me echaron al mar.",
+     "Pasé tres días dentro de un gran pez."
+    ],
+    "prohibidas": [
+     "pez",
+     "ballena",
+     "Nínive",
+     "mar",
+     "barco"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Jonás 1-3",
+   "apto_ninos": true
+  },
+  {
+   "id": "883500fb-f298-5200-b11a-7a9dc3b80232",
+   "tipo": "personaje",
+   "titulo": "Adán",
+   "contenido": {
+    "pistas": [
+     "No tuve padre ni madre.",
+     "Puse nombre a los animales.",
+     "Viví en un huerto.",
+     "Fui el primer hombre."
+    ],
+    "prohibidas": [
+     "Eva",
+     "primer",
+     "huerto",
+     "Edén",
+     "manzana"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 2-3",
+   "apto_ninos": true
+  },
+  {
+   "id": "fa9ae554-2aaf-52e3-972a-5bf238f96798",
+   "tipo": "personaje",
+   "titulo": "Eva",
+   "contenido": {
+    "pistas": [
+     "Fui formada de una costilla.",
+     "Hablé con una serpiente.",
+     "Mis hijos fueron Caín, Abel y Set.",
+     "Fui la primera mujer."
+    ],
+    "prohibidas": [
+     "Adán",
+     "costilla",
+     "serpiente",
+     "fruto",
+     "mujer"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 2-4",
+   "apto_ninos": true
+  },
+  {
+   "id": "e6ac0577-2a46-5892-b2c1-ca2863f24068",
+   "tipo": "personaje",
+   "titulo": "Sansón",
+   "contenido": {
+    "pistas": [
+     "Un ángel anunció mi nacimiento.",
+     "Maté a un león con las manos.",
+     "Una mujer me traicionó.",
+     "Mi fuerza estaba ligada a mi cabello."
+    ],
+    "prohibidas": [
+     "fuerza",
+     "cabello",
+     "Dalila",
+     "pelo",
+     "león"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Jueces 13-16",
+   "apto_ninos": true
+  },
+  {
+   "id": "0d911d52-2ca2-54ac-9ebf-8a27a018f4b4",
+   "tipo": "personaje",
+   "titulo": "Daniel",
+   "contenido": {
+    "pistas": [
+     "Me llevaron cautivo a Babilonia.",
+     "No quise comer la comida del rey.",
+     "Interpreté sueños.",
+     "Pasé una noche con leones."
+    ],
+    "prohibidas": [
+     "leones",
+     "foso",
+     "Babilonia",
+     "sueños",
+     "rey"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Daniel 1-6",
+   "apto_ninos": true
+  },
+  {
+   "id": "f22a7a2c-5ba4-58cf-9259-0a36dc9788b4",
+   "tipo": "personaje",
+   "titulo": "Abraham",
+   "contenido": {
+    "pistas": [
+     "Salí de mi tierra sin saber a dónde iba.",
+     "Mi esposa se llamaba Sara.",
+     "Tuve un hijo a los cien años.",
+     "Me llaman padre de la fe."
+    ],
+    "prohibidas": [
+     "Isaac",
+     "Sara",
+     "fe",
+     "padre",
+     "estrellas"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Génesis 12-22",
+   "apto_ninos": true
+  },
+  {
+   "id": "20ceaedf-0fbe-5600-a11e-66850eb3930d",
+   "tipo": "personaje",
+   "titulo": "José, hijo de Jacob",
+   "contenido": {
+    "pistas": [
+     "Era el hijo preferido de mi padre.",
+     "Mis hermanos me vendieron.",
+     "Estuve en la cárcel en Egipto.",
+     "Interpreté los sueños del faraón."
+    ],
+    "prohibidas": [
+     "túnica",
+     "hermanos",
+     "Egipto",
+     "sueños",
+     "faraón"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Génesis 37-41",
+   "apto_ninos": true
+  },
+  {
+   "id": "ba253202-f26c-5c99-8b84-998d82a88c0a",
+   "tipo": "personaje",
+   "titulo": "Rut",
+   "contenido": {
+    "pistas": [
+     "Era extranjera.",
+     "Quedé viuda joven.",
+     "Dije: \"Tu pueblo será mi pueblo\".",
+     "Fui bisabuela del rey David."
+    ],
+    "prohibidas": [
+     "Noemí",
+     "Booz",
+     "suegra",
+     "Moab",
+     "viuda"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Rut 1-4",
+   "apto_ninos": true
+  },
+  {
+   "id": "4939fed3-f2da-5349-8b27-b58a4de1b113",
+   "tipo": "personaje",
+   "titulo": "Ester",
+   "contenido": {
+    "pistas": [
+     "Mi primo me crió.",
+     "Me escogieron entre muchas jóvenes.",
+     "Me presenté ante el rey sin ser llamada.",
+     "Salvé a mi pueblo siendo reina."
+    ],
+    "prohibidas": [
+     "reina",
+     "Mardoqueo",
+     "Amán",
+     "Persia",
+     "judíos"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Ester 2-8",
+   "apto_ninos": true
+  },
+  {
+   "id": "98d4b8be-6246-556b-a328-ad53fb8d88f5",
+   "tipo": "personaje",
+   "titulo": "Elías",
+   "contenido": {
+    "pistas": [
+     "Unos cuervos me alimentaron.",
+     "Hice bajar fuego del cielo.",
+     "Huí de una reina que quería matarme.",
+     "Subí al cielo en un torbellino."
+    ],
+    "prohibidas": [
+     "fuego",
+     "carro",
+     "Jezabel",
+     "Eliseo",
+     "Baal"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "1 Reyes 17-19; 2 Reyes 2",
+   "apto_ninos": true
+  },
+  {
+   "id": "0899af6b-8a5d-5061-a4c2-113363418594",
+   "tipo": "personaje",
+   "titulo": "Zaqueo",
+   "contenido": {
+    "pistas": [
+     "Cobraba impuestos.",
+     "Era rico.",
+     "Era de baja estatura.",
+     "Subí a un árbol para ver a Jesús."
+    ],
+    "prohibidas": [
+     "árbol",
+     "bajito",
+     "impuestos",
+     "Jericó",
+     "publicano"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Lucas 19:1-10",
+   "apto_ninos": true
+  },
+  {
+   "id": "03c7ed3a-08b2-5754-acb5-28aac405ee76",
+   "tipo": "personaje",
+   "titulo": "Pablo",
+   "contenido": {
+    "pistas": [
+     "Perseguí a la iglesia.",
+     "Quedé ciego en un camino.",
+     "Hice viajes misioneros.",
+     "Escribí muchas cartas del Nuevo Testamento."
+    ],
+    "prohibidas": [
+     "Saulo",
+     "Damasco",
+     "cartas",
+     "apóstol",
+     "misionero"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Hechos 9; 13-28",
+   "apto_ninos": true
+  },
+  {
+   "id": "bc92ce03-f1e9-5fca-ad3a-d3a2b7fbfa5b",
+   "tipo": "personaje",
+   "titulo": "Salomón",
+   "contenido": {
+    "pistas": [
+     "Mi madre fue Betsabé.",
+     "Le pedí sabiduría a Dios.",
+     "Construí el templo.",
+     "Soy conocido como el rey más sabio."
+    ],
+    "prohibidas": [
+     "sabio",
+     "templo",
+     "David",
+     "rey",
+     "Proverbios"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "1 Reyes 3-8",
+   "apto_ninos": true
+  },
+  {
+   "id": "b61fc52e-10d9-5a7a-8de8-45dfc877f05b",
+   "tipo": "personaje",
+   "titulo": "Josué",
+   "contenido": {
+    "pistas": [
+     "Fui ayudante de Moisés.",
+     "Fui uno de los doce espías.",
+     "Crucé el Jordán con el pueblo.",
+     "Las murallas de Jericó cayeron."
+    ],
+    "prohibidas": [
+     "Jericó",
+     "Moisés",
+     "murallas",
+     "espías",
+     "trompetas"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Números 13; Josué 1-6",
+   "apto_ninos": true
+  },
+  {
+   "id": "a7de72bb-a2b3-5751-ab60-c822534c954e",
+   "tipo": "personaje",
+   "titulo": "Juan el Bautista",
+   "contenido": {
+    "pistas": [
+     "Mi padre era sacerdote.",
+     "Vestía pelo de camello.",
+     "Comía langostas y miel silvestre.",
+     "Bauticé a Jesús."
+    ],
+    "prohibidas": [
+     "bautizar",
+     "Jordán",
+     "camello",
+     "langostas",
+     "Herodes"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Lucas 1; Mateo 3",
+   "apto_ninos": true
+  },
+  {
+   "id": "414c2c39-00b8-5064-8df9-18563da80612",
+   "tipo": "personaje",
+   "titulo": "Gedeón",
+   "contenido": {
+    "pistas": [
+     "Sacudía el trigo a escondidas.",
+     "Puse a prueba a Dios con un vellón de lana.",
+     "Mi ejército quedó en trescientos.",
+     "Vencí con cántaros y teas encendidas."
+    ],
+    "prohibidas": [
+     "vellón",
+     "trescientos",
+     "Madián",
+     "antorchas",
+     "juez"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Jueces 6-7",
+   "apto_ninos": true
+  },
+  {
+   "id": "2ed7a9ed-7a67-52c7-beae-26d43258c7ae",
+   "tipo": "personaje",
+   "titulo": "Débora",
+   "contenido": {
+    "pistas": [
+     "Juzgaba debajo de una palmera.",
+     "Era profetisa.",
+     "Llamé a Barac a la batalla.",
+     "Fui jueza de Israel."
+    ],
+    "prohibidas": [
+     "Barac",
+     "jueza",
+     "palmera",
+     "profetisa",
+     "Sísara"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Jueces 4-5",
+   "apto_ninos": true
+  },
+  {
+   "id": "2ecbeb38-7bba-5fed-9719-eb63b14ab580",
+   "tipo": "personaje",
+   "titulo": "Nehemías",
+   "contenido": {
+    "pistas": [
+     "Fui copero del rey.",
+     "Lloré al saber que los muros estaban caídos.",
+     "Sanbalat y Tobías se me opusieron.",
+     "Reconstruimos el muro en cincuenta y dos días."
+    ],
+    "prohibidas": [
+     "muros",
+     "Jerusalén",
+     "copero",
+     "reconstruir",
+     "Esdras"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Nehemías 1-6",
+   "apto_ninos": true
+  },
+  {
+   "id": "29b1c8da-59a5-586f-af5a-f01038425d04",
+   "tipo": "personaje",
+   "titulo": "Ana, madre de Samuel",
+   "contenido": {
+    "pistas": [
+     "Mi esposo tenía otra esposa.",
+     "Oré tanto que el sacerdote pensó que estaba ebria.",
+     "Prometí dedicar a mi hijo a Dios.",
+     "Mi hijo fue el profeta Samuel."
+    ],
+    "prohibidas": [
+     "Samuel",
+     "Elí",
+     "oración",
+     "Silo",
+     "Elcana"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "1 Samuel 1-2",
+   "apto_ninos": true
+  },
+  {
+   "id": "7e3a8000-1508-537b-8ff7-0cc493b6f252",
+   "tipo": "personaje",
+   "titulo": "Bernabé",
+   "contenido": {
+    "pistas": [
+     "Vendí una heredad y di el dinero a los apóstoles.",
+     "Mi apodo significa \"hijo de consolación\".",
+     "Presenté a Saulo ante los apóstoles.",
+     "Acompañé a Pablo en su primer viaje."
+    ],
+    "prohibidas": [
+     "Pablo",
+     "consolación",
+     "Chipre",
+     "Marcos",
+     "viaje"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Hechos 4:36-37; 9:27; 13:2",
+   "apto_ninos": true
+  },
+  {
+   "id": "fe70b22a-a3dd-5e7f-9372-c616f19473cd",
+   "tipo": "personaje",
+   "titulo": "Eliseo",
+   "contenido": {
+    "pistas": [
+     "Estaba arando con doce yuntas de bueyes.",
+     "Pedí doble porción del espíritu de mi maestro.",
+     "Hice flotar un hacha.",
+     "Naamán fue sanado de lepra por mi palabra."
+    ],
+    "prohibidas": [
+     "Elías",
+     "Naamán",
+     "doble",
+     "hacha",
+     "profeta"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "1 Reyes 19:19; 2 Reyes 2-6",
+   "apto_ninos": true
+  },
+  {
+   "id": "d4b16e7a-e62c-5222-83a5-6f31622d9ad3",
+   "tipo": "personaje",
+   "titulo": "Esteban",
+   "contenido": {
+    "pistas": [
+     "Me eligieron para servir a las mesas.",
+     "Mi rostro parecía el de un ángel.",
+     "Vi los cielos abiertos.",
+     "Fui el primer mártir de la iglesia."
+    ],
+    "prohibidas": [
+     "piedras",
+     "mártir",
+     "diácono",
+     "Saulo",
+     "apedreado"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Hechos 6-7",
+   "apto_ninos": true
+  },
+  {
+   "id": "9e004c5a-0e50-52e3-a79c-766f659559df",
+   "tipo": "personaje",
+   "titulo": "Lidia",
+   "contenido": {
+    "pistas": [
+     "Vendía púrpura.",
+     "Era de la ciudad de Tiatira.",
+     "Escuché a Pablo junto a un río.",
+     "Hospedé a los misioneros en Filipos."
+    ],
+    "prohibidas": [
+     "púrpura",
+     "Filipos",
+     "Pablo",
+     "río",
+     "tela"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Hechos 16:13-15",
+   "apto_ninos": true
+  },
+  {
+   "id": "5ce4777f-05b1-5fe0-bafb-8b00ce186c65",
+   "tipo": "personaje",
+   "titulo": "Matusalén",
+   "contenido": {
+    "pistas": [
+     "Mi padre caminó con Dios.",
+     "Mi nieto construyó un arca.",
+     "Mi padre se llamaba Enoc.",
+     "Viví 969 años."
+    ],
+    "prohibidas": [
+     "969",
+     "viejo",
+     "Enoc",
+     "años",
+     "Noé"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Génesis 5:21-27",
+   "apto_ninos": true
+  },
+  {
+   "id": "cffceb90-8c49-524e-b34a-26a4759997f6",
+   "tipo": "personaje",
+   "titulo": "Natán",
+   "contenido": {
+    "pistas": [
+     "Fui profeta en la corte de un rey.",
+     "Le dije al rey que no sería él quien edificara el templo.",
+     "Conté la historia de un rico y una corderita.",
+     "Le dije al rey: \"Tú eres aquel hombre\"."
+    ],
+    "prohibidas": [
+     "David",
+     "oveja",
+     "Betsabé",
+     "profeta",
+     "rey"
+    ]
+   },
+   "juegos": [
+    "quien-sera",
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "2 Samuel 7; 12",
+   "apto_ninos": true
+  },
+  {
+   "id": "1b66a680-42a4-5a89-84d7-ab5030f86537",
+   "tipo": "objeto",
+   "titulo": "Arca de Noé",
+   "contenido": {
+    "prohibidas": [
+     "Noé",
+     "barco",
+     "animales",
+     "diluvio",
+     "madera"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 6:14",
+   "apto_ninos": true
+  },
+  {
+   "id": "396e333b-7112-5cd5-a8f4-16f7b0b673a9",
+   "tipo": "objeto",
+   "titulo": "Cruz",
+   "contenido": {
+    "prohibidas": [
+     "Jesús",
+     "madera",
+     "clavos",
+     "morir",
+     "Calvario"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Juan 19:17-18",
+   "apto_ninos": true
+  },
+  {
+   "id": "4b27146a-e415-5cd6-9f8d-4f1fab793ade",
+   "tipo": "objeto",
+   "titulo": "Pesebre",
+   "contenido": {
+    "prohibidas": [
+     "Belén",
+     "bebé",
+     "animales",
+     "nacimiento",
+     "Navidad"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Lucas 2:7",
+   "apto_ninos": true
+  },
+  {
+   "id": "4c17dca7-1b39-5549-be22-e526618d6871",
+   "tipo": "objeto",
+   "titulo": "Honda de David",
+   "contenido": {
+    "prohibidas": [
+     "David",
+     "Goliat",
+     "piedra",
+     "lanzar",
+     "gigante"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "1 Samuel 17:49",
+   "apto_ninos": true
+  },
+  {
+   "id": "e29df50c-1eea-5f20-ad42-9567003e85b3",
+   "tipo": "objeto",
+   "titulo": "Zarza ardiente",
+   "contenido": {
+    "prohibidas": [
+     "Moisés",
+     "fuego",
+     "arbusto",
+     "quemar",
+     "Dios"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Éxodo 3:2",
+   "apto_ninos": true
+  },
+  {
+   "id": "fe169819-fb65-5fcb-8eff-d53eb31ec4a2",
+   "tipo": "lugar",
+   "titulo": "Belén",
+   "contenido": {
+    "prohibidas": [
+     "Jesús",
+     "nacer",
+     "ciudad",
+     "David",
+     "pesebre"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Mateo 2:1",
+   "apto_ninos": true
+  },
+  {
+   "id": "a236b0e2-61a6-5a28-8e07-a27ec747f48c",
+   "tipo": "lugar",
+   "titulo": "Mar Rojo",
+   "contenido": {
+    "prohibidas": [
+     "Moisés",
+     "Egipto",
+     "abrir",
+     "cruzar",
+     "agua"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Éxodo 14:21-22",
+   "apto_ninos": true
+  },
+  {
+   "id": "850b38da-6594-5164-8fc5-56a7e2587b28",
+   "tipo": "lugar",
+   "titulo": "Torre de Babel",
+   "contenido": {
+    "prohibidas": [
+     "idiomas",
+     "construir",
+     "cielo",
+     "alta",
+     "lenguas"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 11:1-9",
+   "apto_ninos": true
+  },
+  {
+   "id": "e5b9a667-601b-5a2b-822b-37fb58ca9710",
+   "tipo": "objeto",
+   "titulo": "Cinco panes y dos peces",
+   "contenido": {
+    "prohibidas": [
+     "multiplicar",
+     "comida",
+     "multitud",
+     "Jesús",
+     "muchacho"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Juan 6:9",
+   "apto_ninos": true
+  },
+  {
+   "id": "b7701878-33da-5caa-b09f-574f39bc8bb5",
+   "tipo": "lugar",
+   "titulo": "Huerto del Edén",
+   "contenido": {
+    "prohibidas": [
+     "Adán",
+     "Eva",
+     "árbol",
+     "serpiente",
+     "paraíso"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 1,
+   "cita": "Génesis 2:8",
+   "apto_ninos": true
+  },
+  {
+   "id": "41b105a4-a4ad-50fe-bf4e-616f332819d8",
+   "tipo": "objeto",
+   "titulo": "Maná",
+   "contenido": {
+    "prohibidas": [
+     "desierto",
+     "comer",
+     "cielo",
+     "pan",
+     "Moisés"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Éxodo 16:31",
+   "apto_ninos": true
+  },
+  {
+   "id": "22a35020-149b-5e9a-b6a7-e445184daa1b",
+   "tipo": "objeto",
+   "titulo": "Tablas de la ley",
+   "contenido": {
+    "prohibidas": [
+     "mandamientos",
+     "piedra",
+     "Moisés",
+     "diez",
+     "Sinaí"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Éxodo 31:18",
+   "apto_ninos": true
+  },
+  {
+   "id": "29f129b4-2685-52b1-aa2a-34735fa4682a",
+   "tipo": "lugar",
+   "titulo": "Jericó",
+   "contenido": {
+    "prohibidas": [
+     "murallas",
+     "Josué",
+     "trompetas",
+     "caer",
+     "ciudad"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Josué 6",
+   "apto_ninos": true
+  },
+  {
+   "id": "0400da05-6e4f-52bd-98a8-0d48401560f7",
+   "tipo": "objeto",
+   "titulo": "Arca del pacto",
+   "contenido": {
+    "prohibidas": [
+     "caja",
+     "oro",
+     "querubines",
+     "tablas",
+     "templo"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Éxodo 25:10-22",
+   "apto_ninos": true
+  },
+  {
+   "id": "83d9048b-f253-52fc-851b-0bdad7ffef20",
+   "tipo": "objeto",
+   "titulo": "Túnica de colores",
+   "contenido": {
+    "prohibidas": [
+     "José",
+     "hermanos",
+     "padre",
+     "Jacob",
+     "ropa"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Génesis 37:3",
+   "apto_ninos": true
+  },
+  {
+   "id": "59762749-d6ea-5a93-bc0a-88ca00404947",
+   "tipo": "lugar",
+   "titulo": "Monte Sinaí",
+   "contenido": {
+    "prohibidas": [
+     "Moisés",
+     "mandamientos",
+     "tablas",
+     "montaña",
+     "ley"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Éxodo 19:20",
+   "apto_ninos": true
+  },
+  {
+   "id": "ed74ed70-7e0e-5aa4-b641-e959aca62e79",
+   "tipo": "lugar",
+   "titulo": "Getsemaní",
+   "contenido": {
+    "prohibidas": [
+     "huerto",
+     "orar",
+     "olivos",
+     "Judas",
+     "noche"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Mateo 26:36",
+   "apto_ninos": true
+  },
+  {
+   "id": "3ae3fe2b-a12d-57bc-a3bf-154308e57e21",
+   "tipo": "objeto",
+   "titulo": "Escalera de Jacob",
+   "contenido": {
+    "prohibidas": [
+     "sueño",
+     "ángeles",
+     "subir",
+     "bajar",
+     "Betel"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 2,
+   "cita": "Génesis 28:12",
+   "apto_ninos": true
+  },
+  {
+   "id": "c9ac08d0-c405-5fe5-a401-0eecf331bff5",
+   "tipo": "objeto",
+   "titulo": "Vellón de lana",
+   "contenido": {
+    "prohibidas": [
+     "Gedeón",
+     "lana",
+     "rocío",
+     "señal",
+     "prueba"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Jueces 6:37-40",
+   "apto_ninos": true
+  },
+  {
+   "id": "0fae8d40-70a3-535c-a4fe-22713334e5b8",
+   "tipo": "objeto",
+   "titulo": "Efod",
+   "contenido": {
+    "prohibidas": [
+     "sacerdote",
+     "vestidura",
+     "Aarón",
+     "piedras",
+     "pectoral"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Éxodo 28:6",
+   "apto_ninos": true
+  },
+  {
+   "id": "d6807b2c-fd05-5a0e-9903-c4e505c676a3",
+   "tipo": "objeto",
+   "titulo": "Serpiente de bronce",
+   "contenido": {
+    "prohibidas": [
+     "Moisés",
+     "desierto",
+     "asta",
+     "mirar",
+     "mordida"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Números 21:9",
+   "apto_ninos": true
+  },
+  {
+   "id": "6456931d-c3aa-5734-9799-41c5cf0a205a",
+   "tipo": "lugar",
+   "titulo": "Estanque de Betesda",
+   "contenido": {
+    "prohibidas": [
+     "agua",
+     "ángel",
+     "paralítico",
+     "Jerusalén",
+     "pórticos"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Juan 5:2-9",
+   "apto_ninos": true
+  },
+  {
+   "id": "2b9bee6e-6b1d-52d2-a0f7-2e0506d10046",
+   "tipo": "lugar",
+   "titulo": "Isla de Patmos",
+   "contenido": {
+    "prohibidas": [
+     "isla",
+     "Juan",
+     "Apocalipsis",
+     "destierro",
+     "visión"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Apocalipsis 1:9",
+   "apto_ninos": true
+  },
+  {
+   "id": "5c4b57f2-4774-506d-88ca-4203cd5f61eb",
+   "tipo": "lugar",
+   "titulo": "Monte Carmelo",
+   "contenido": {
+    "prohibidas": [
+     "Elías",
+     "fuego",
+     "Baal",
+     "profetas",
+     "altar"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "1 Reyes 18:19-39",
+   "apto_ninos": true
+  },
+  {
+   "id": "ba46dc75-a48c-5709-a39c-61613e00f22b",
+   "tipo": "objeto",
+   "titulo": "Candelero de oro",
+   "contenido": {
+    "prohibidas": [
+     "siete",
+     "lámparas",
+     "oro",
+     "tabernáculo",
+     "luz"
+    ]
+   },
+   "juegos": [
+    "en-la-frente",
+    "sin-decirlo"
+   ],
+   "dificultad": 3,
+   "cita": "Éxodo 25:31-37",
+   "apto_ninos": true
+  }
+ ]
+}

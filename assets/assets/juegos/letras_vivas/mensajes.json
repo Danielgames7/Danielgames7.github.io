@@ -1,0 +1,168 @@
+{
+"mensajes": [
+{
+"momento": "palabra",
+"texto": "¡Bien!"
+},
+{
+"momento": "palabra",
+"texto": "¡Así se hace!"
+},
+{
+"momento": "palabra",
+"texto": "¡Excelente!"
+},
+{
+"momento": "palabra",
+"texto": "¡Muy bien!"
+},
+{
+"momento": "palabra",
+"texto": "¡Eso es!"
+},
+{
+"momento": "palabra",
+"texto": "¡Vas creciendo!"
+},
+{
+"momento": "palabra",
+"texto": "¡Buen ojo!"
+},
+{
+"momento": "palabra",
+"texto": "¡Sigue así!"
+},
+{
+"momento": "palabra",
+"texto": "¡Lo encontraste!"
+},
+{
+"momento": "palabra",
+"texto": "¡Paso a paso!"
+},
+{
+"momento": "palabra",
+"texto": "¡Firme en la Palabra!"
+},
+{
+"momento": "palabra",
+"texto": "¡Otra más para tu tesoro!"
+},
+{
+"momento": "racha",
+"texto": "¡Imparable, como Josué alrededor de Jericó!"
+},
+{
+"momento": "racha",
+"texto": "¡Tres seguidas! Corres como Elías delante del carro de Acab."
+},
+{
+"momento": "racha",
+"texto": "¡Racha encendida! Tu lámpara tiene aceite de sobra."
+},
+{
+"momento": "racha",
+"texto": "¡Una tras otra, como piedras en la honda de David!"
+},
+{
+"momento": "racha",
+"texto": "¡Qué memoria! Como los de Berea, que escudriñaban cada día."
+},
+{
+"momento": "racha",
+"texto": "¡Sin parar! Como Nehemías levantando el muro."
+},
+{
+"momento": "racha",
+"texto": "¡Vas volando como águila!"
+},
+{
+"momento": "racha",
+"texto": "¡No te detienes! Como Rut espigando de sol a sol."
+},
+{
+"momento": "clave",
+"texto": "¡Palabra clave! Ya tienes la llave del nivel."
+},
+{
+"momento": "clave",
+"texto": "¡La encontraste! Esa abre todo el crucigrama."
+},
+{
+"momento": "clave",
+"texto": "¡Usaste todas las letras! Eso merece una corona."
+},
+{
+"momento": "clave",
+"texto": "¡Gran hallazgo! Como la perla de gran precio."
+},
+{
+"momento": "extra",
+"texto": "¡Palabra extra! Suma a tu cofre."
+},
+{
+"momento": "extra",
+"texto": "¡Esa no estaba en el crucigrama, pero vale!"
+},
+{
+"momento": "extra",
+"texto": "¡Buen vocabulario!"
+},
+{
+"momento": "extra",
+"texto": "¡Encontraste un tesoro escondido en el campo!"
+},
+{
+"momento": "nivel",
+"texto": "¡Nivel completo! Bien hecho, siervo bueno y fiel."
+},
+{
+"momento": "nivel",
+"texto": "¡Terminaste! Corriste la carrera hasta el final."
+},
+{
+"momento": "nivel",
+"texto": "¡Lo lograste! Cada palabra es una semilla sembrada."
+},
+{
+"momento": "nivel",
+"texto": "¡Nivel superado! Tu Biblia te lo agradece."
+},
+{
+"momento": "nivel",
+"texto": "¡Completo! Hoy conociste un poco más la historia de Dios."
+},
+{
+"momento": "nivel",
+"texto": "¡Muy bien! Sigue caminando, que la tierra prometida espera."
+},
+{
+"momento": "nivel_perfecto",
+"texto": "¡Perfecto, sin ninguna ayuda! Tres estrellas para ti."
+},
+{
+"momento": "nivel_perfecto",
+"texto": "¡Sin lámpara! Conoces bien tu Biblia."
+},
+{
+"momento": "nivel_perfecto",
+"texto": "¡Impecable! Como Daniel, diez veces mejor."
+},
+{
+"momento": "nivel_perfecto",
+"texto": "¡Tres estrellas! Eso es escudriñar las Escrituras."
+},
+{
+"momento": "libro",
+"texto": "¡Libro completo! Ya recorriste todo este libro de la Biblia."
+},
+{
+"momento": "libro",
+"texto": "¡Terminaste el libro! Abre tu Biblia y léelo completo esta semana."
+},
+{
+"momento": "libro",
+"texto": "¡Un libro más en tu mapa! Ya van varios pasos en el camino."
+}
+]
+}
